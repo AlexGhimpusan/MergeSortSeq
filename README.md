@@ -1,20 +1,14 @@
 # MergeSort sequential version
 
-### Details of the project:
+## Details of the project:
 Google Docs for the details: https://docs.google.com/document/d/15gRVRgnXWFDvQoWy9gUt4qWQ1tWoIQ2WVy8AB2HwMGY/edit
 
-### FYI:
+## FYI:
 The "input" file contains on the first line the count of the numbers and on the second line the numbers separated by a space
 
 I used an algorithm to write the file, than to run it for sorting.
 
-### Algorith to generate random numbers to file:
-
-import java.io.FileWriter;
-import java.io.IOException;
-import java.util.Random;
-
-public class WriteRandomNumbersToFile {
+## Algorithm to generate random numbers to file:
 
     public static void main(String[] args) {
         String fileName = "PATH TO: input";
@@ -43,4 +37,3 @@ public class WriteRandomNumbersToFile {
             e.printStackTrace();
         }
     }
-}
