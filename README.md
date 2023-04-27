@@ -6,7 +6,7 @@ Google Docs for the details: https://docs.google.com/document/d/15gRVRgnXWFDvQoW
 ## FYI:
 The "input" file contains on the first line the count of the numbers and on the second line the numbers separated by a space
 
-I used an algorithm to write the file, than to run it for sorting.
+I used an algorithm to write the file, then to run it for sorting.
 
 ## Algorithm to generate random numbers to file:
 
